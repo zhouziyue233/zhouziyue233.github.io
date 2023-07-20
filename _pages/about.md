@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-Chengyue Wu is a first year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Chengyue obtained his Bachelor’s degree from Harbin Institute of Technology (HIT) in June 2021.
+Chengyue Wu is a first year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Chengyue obtained his Bachelor’s degree from Harbin Institute of Technology (HIT) in June 2023.
 
 His current research interest lies at Vision-Language models, Large Language Model (LLM).
 
@@ -23,16 +23,9 @@ His current research interest lies at Vision-Language models, Large Language Mod
 
 ## <span id="publication">Publications</span>
 
-- **AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners**
-  - **Zhixuan Liang**, Yao Mu, Mingyu Ding, Fei Ni, Masayoshi Tomizuka, Ping Luo
-  - *ICML 2023* <font color="red">(Oral)</font> \[[paper](https://arxiv.org/abs/2302.01877)\] \[[project page](https://adaptdiffuser.github.io/)\]
-- **MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL**
-  - Fei Ni, Jianye Hao, Yao Mu, Yifu Yuan, Yan Zheng, Bin Wang, **Zhixuan Liang**
-  - *ICML 2023* \[[project page](https://metadiffuser.github.io/)\]
-
-- **Longitudinal Registration of Knee MRI Based on Femoral and Tibial Alignment**
-  - **Zhixuan Liang**, Yin Guo, Chun Yuan
-  - *ISMRM 2021* \[[abstract paper](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/3734.html)\] \[[code](https://github.com/Liang-ZX/OAI-registration)\] \[[video](https://cds.ismrm.org/protected/21MPresentations/dposters/3734.htm)\]
+- **$\pi$-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation**
+  - **Chengyue Wu**, Teng Wang, Yixiao Ge, Zeyu Lu, Ruisong Zhou, Ying Shan, Ping Luo
+  - *ICML 2023*  \[[paper](https://arxiv.org/abs/2304.14381)\] \[[project page](https://github.com/TencentARC/pi-Tuning/)\]
 
 ## <span id="award">Honors & Awards</span>
 - **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2023
