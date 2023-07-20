@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 ## Biography
-Zhixuan Liang is a first year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Zhixuan obtained his Bachelor’s degree from Zhejiang University (ZJU) in June 2021.
+Chengyue Wu is a first year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Chengyue obtained his Bachelor’s degree from Harbin Institute of Technology (HIT) in June 2021.
 
-His current research interest lies at data-centric learning, reinforcement learning and autonomous driving.
+His current research interest lies at Vision-Language models, Large Language Model (LLM).
 
 
 ## Education
-- Ph.D. in Computer Science, **The University of Hong Kong**, 2022-now
+- Ph.D. in Computer Science, **The University of Hong Kong**, 2023-now
 	- Supervisor: Prof. Ping Luo and Prof. Wenping Wang
 	- Hong Kong PhD Fellowship Scheme (HKPFS)
-- B.Eng. in Automation, **Zhejiang University**, 2017-2021
-	- GPA: **90.62 / 100**, Rank: **1 / 100**
-	- Minor in Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
+- B.Eng. in Computer Science, **Harbin Institute of Technology**, 2019-2023
+	- GPA: **95.56 / 100**, Rank: **1 / 144**
 
 ## <span id="publication">Publications</span>
 
@@ -36,10 +35,7 @@ His current research interest lies at data-centric learning, reinforcement learn
   - *ISMRM 2021* \[[abstract paper](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/3734.html)\] \[[code](https://github.com/Liang-ZX/OAI-registration)\] \[[video](https://cds.ismrm.org/protected/21MPresentations/dposters/3734.htm)\]
 
 ## <span id="award">Honors & Awards</span>
-- **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2022
-- HKU Presidential PhD Scholarship (HKU-PS), 2022
-- Y S and Christabel Lung Postgraduate Scholarship, 2022
-- **Wang Guosong Dean's Award, Zhejiang University**, 2021
-- Outstanding Graduate of Zhejiang Province, 2021
+- **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2023
+- HKU Presidential PhD Scholarship (HKU-PS), 2023
+- Outstanding Graduate of Heilongjiang Province, 2023
 - **National Scholarship**, 2020
-- **Finalist Award** in Mathematical Contest in Modeling, 2020
