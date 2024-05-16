@@ -23,6 +23,9 @@ His current research interest lies at Vision-Language models, Large Language Mod
 
 ## <span id="publication">Publications</span>
 
+- **Llama pro: Progressive llama with block expansion**
+  - **Chengyue Wu**, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan
+  - *ACL 2024* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
 - **$\pi$-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation**
   - **Chengyue Wu**, Teng Wang, Yixiao Ge, Zeyu Lu, Ruisong Zhou, Ying Shan, Ping Luo
   - *ICML 2023*  \[[paper](https://arxiv.org/abs/2304.14381)\] \[[project page](https://github.com/TencentARC/pi-Tuning/)\]
