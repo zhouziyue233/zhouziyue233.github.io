@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-Chengyue Wu is a first year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Chengyue obtained his Bachelor’s degree from Harbin Institute of Technology (HIT) in June 2023.
+Chengyue Wu is a second year Ph.D. student at the Department of Computer Science, The University of Hong Kong (HKU), fortunately advised by [Prof. Ping Luo](http://luoping.me/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) (IEEE Fellow and ACM Fellow). Previously, Chengyue obtained his Bachelor’s degree from Harbin Institute of Technology (HIT) in June 2023.
 
 His current research interest lies at Vision-Language models, Large Language Model (LLM).
 
@@ -25,10 +25,19 @@ His current research interest lies at Vision-Language models, Large Language Mod
 
 - **Llama pro: Progressive llama with block expansion**
   - **Chengyue Wu**, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan
-  - *ACL 2024* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
+  - *ACL 2024, Main Conference* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
 - **$\pi$-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation**
   - **Chengyue Wu**, Teng Wang, Yixiao Ge, Zeyu Lu, Ruisong Zhou, Ying Shan, Ping Luo
   - *ICML 2023*  \[[paper](https://arxiv.org/abs/2304.14381)\] \[[project page](https://github.com/TencentARC/pi-Tuning/)\]
+- **Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**
+  - **Chengyue Wu**, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo
+  - *Arxiv 2024.05* \[[paper](https://arxiv.org/pdf/2405.07990)\] \[[project page](https://huggingface.co/datasets/TencentARC/Plot2Code)\]
+- **Hierarchical diffusion autoencoders and disentangled image manipulation**
+  - Zeyu Lu, **Chengyue Wu**, Xinyuan Chen, Yaohui Wang, Lei Bai, Yu Qiao, Xihui Liu
+  - *WACV 2024* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lu_Hierarchical_Diffusion_Autoencoders_and_Disentangled_Image_Manipulation_WACV_2024_paper.pdf)\]
+- **Fit: Flexible vision transformer for diffusion model**
+  - Zeyu Lu, Zidong Wang, Di Huang, **Chengyue Wu**, Xihui Liu, Wanli Ouyang, Lei Bai
+  - *ICML 2024, spotlight* \[[paper](https://arxiv.org/pdf/2402.12376)\] \[[project page](https://github.com/whlzy/FiT)\]
 
 ## <span id="award">Honors & Awards</span>
 - **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2023
