@@ -38,6 +38,15 @@ His current research interest lies at Vision-Language models, Large Language Mod
 - **Fit: Flexible vision transformer for diffusion model**
   - Zeyu Lu, Zidong Wang, Di Huang, **Chengyue Wu**, Xihui Liu, Wanli Ouyang, Lei Bai
   - *ICML 2024, spotlight* \[[paper](https://arxiv.org/pdf/2402.12376)\] \[[project page](https://github.com/whlzy/FiT)\]
+- **Generative data augmentation for non-iid problem in decentralized clinical machine learning**
+  - Zirui Wang, Shaoming Duan, **Chengyue Wu**, Wenhao Lin, Xinyu Zha, Peiyi Han, Chuanyi Liu
+  - *ICDIS 2022* \[[paper](https://ieeexplore.ieee.org/abstract/document/9984853/)\]
+- **Automatic time series forecasting model design based on pruning**
+  - Chunnan Wang, Xingyu Chen, **Chengyue Wu**, Hongzhi Wang
+  - *Applied Soft Computing* \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624005787)\]
+- **Adapting LLaMA Decoder to Vision Transformer**
+  - Jiahao Wang, Wenqi Shao, Mengzhao Chen, **Chengyue Wu**, Yong Liu, Kaipeng Zhang, Songyang Zhang, Kai Chen, Ping Luo
+  - *Arxiv 2024.04* \[[paper](https://arxiv.org/pdf/2404.06773)\] \[[project page](https://github.com/techmonsterwang/iLLaMA)\]
 
 ## <span id="award">Honors & Awards</span>
 - **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2023
