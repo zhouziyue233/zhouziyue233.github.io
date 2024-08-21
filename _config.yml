@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chengyue Wu"
+title                    : "Ziyue Zhou"
 title_separator          : "-"
-name                     : &name "Chengyue Wu"
+name                     : &name "Ziyue Zhou"
 description              : &description "PhD student at HKU"
-url                      : https://hills-code.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://williamzhou233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hills-code/hills-code.github.io"
+repository               : "WilliamZhou233.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengyue Wu"
+  name             : "Ziyue Zhou"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in Computer Science, The University of Hong Kong"
+  bio              : "Ph.D. Student in Law, The University of Hong Kong"
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AMpAcmQ6JcW4UlryBqya4vsQaOQEBpep4ZMUEMx_KBLC0mwfUxbWadu5fzP-iGwzqkOaDWK14oGZUqXCkSekfhzztVo&user=BDQZhw4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=sW-MnRAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hills-code"
+  github           : "WilliamZhou233"
   google_plus      :
   keybase          :
   instagram        :
