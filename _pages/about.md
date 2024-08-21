@@ -27,5 +27,6 @@ His broad research interests lie in competition law, economic analysis of law an
   - *Asian Journal of Law and Economics* \[[paper](https://doi.org/10.1515/ajle-2023-0114)\]
 
 ## <span id="award">Honors & Awards</span>
-  - Hong Kong PhD Fellowship Scheme (HKPFS), 2023
-  - HKU Presidential PhD Scholarship (HKU-PS), 2023
+
+- Hong Kong PhD Fellowship Scheme (HKPFS), 2023
+- HKU Presidential PhD Scholarship (HKU-PS), 2023
