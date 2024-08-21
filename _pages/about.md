@@ -17,7 +17,7 @@ His broad research interests lie in competition law, economic analysis of law an
 ## Education
 - Ph.D.(Law), **The University of Hong Kong**, 2023-now
 	- Supervisor: Prof. Kelvin Kwok
-- LL.M., **The University of Chicago, 2021-2022
+- LL.M., **The University of Chicago**, 2021-2022
 - LL.B., **Peking University**, 2017-2021
 
 ## <span id="publication">Publications</span>
