@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 Ziyue Zhou is a Ph.D. student at the Faculty of Law, The University of Hong Kong (HKU), supervised by [Prof. Kelvin Kwok](https://www.law.hku.hk/academic_staff/kelvin-kwok/). Prior to pursuing his doctoral studies, Ziyue earned his LL.B. from Peking University in 2021. He then proceeded to obtain his LL.M. from the University of Chicago in 2022, where he specialized in antitrust law and economic analysis of law.
 
-His broad research interests lie in competition law, economic analysis of law and empirical legal studies. Currently, he is working on law and AI with particular focus on algorithmic collusion.
+His broad research interests lie in competition law, economic analysis of law and empirical legal studies. Currently, he is working on law and AI with particular focus on algorithmic regulation.
 
 
 ## Education
