@@ -23,7 +23,7 @@ His broad research interests lie in competition law, economic analysis of law an
 ## <span id="publication">Publications</span>
 
 - **Catalyst for Common Law Evolution: Experiment with ChatGPT and a Hypothetical Common Law Jurisdiction** (with Kwan Yuen Iu)
-  - *Asian Journal of Law and Economics* vol. 15, no. 1, 2024, pp. 55-82. \[[paper](https://doi.org/10.1515/ajle-2023-0114)\]
+  - *Asian Journal of Law and Economics*, vol. 15, no. 1, 2024, pp. 55-82. \[[paper](https://doi.org/10.1515/ajle-2023-0114)\]
 
 ## <span id="award">Honors & Awards</span>
 
