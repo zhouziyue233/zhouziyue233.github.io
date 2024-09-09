@@ -13,7 +13,7 @@ Hi there!👋 Welcome to my personal page!
 
 👨‍🎓 My name is Ziyue Zhou. I'm now a Ph.D. student at the Faculty of Law, The University of Hong Kong (HKU), supervised by [Prof. Kelvin Kwok](https://www.law.hku.hk/academic_staff/kelvin-kwok/). Prior to pursuing my doctoral studies, I obtained my LL.B. from Peking University in 2021, and LL.M. from the University of Chicago in 2022.
 
-🤖 Standing in the era of artificial intelligence, I believe legal research in our time has come to a turning point. Recent technological progress in natural language process(NLP) and machine learning(ML) has created new possibilites for empirical legal studies. Big data and Big Analytics are also fueling many new fields and topics. That's a huge opportunity for a new generation of young legal scholars. Let's keep moving forward!
+🤖 Standing in the era of artificial intelligence, I believe legal research in our time has come to a turning point. Recent technological progress in Natural Language Processing(NLP) and Machine Learning(ML) has created new possibilites for empirical legal studies. Big data and Big Analytics are also fueling many new fields and topics. That's a huge opportunity for a new generation of young legal scholars. Let's keep moving forward!
 
 ## Education
 - Ph.D., **The University of Hong Kong**, 2023-now
