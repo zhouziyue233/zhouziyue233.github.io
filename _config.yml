@@ -87,8 +87,8 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sW-MnRAAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ziyue@connect.hku.hk"
+  researchgate     :  "https://www.researchgate.net/profile/Ziyue-Zhou-17"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ziyue-zhou-a3a135185"
+  orcid            : "https://orcid.org/0009-0001-5730-9127"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  redbook          : "https://www.xiaohongshu.com/user/profile/60b5b056000000000100ad3e"
 
 # Reading Files
 include:
