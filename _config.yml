@@ -88,7 +88,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sW-MnRAAAAAJ&hl=en"
   email            : "ziyue@connect.hku.hk"
-  researchgate     :  "https://www.researchgate.net/profile/Ziyue-Zhou-17"
+  # researchgate     :  "https://www.researchgate.net/profile/Ziyue-Zhou-17"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ziyue-zhou-a3a135185"
-  orcid            : "https://orcid.org/0009-0001-5730-9127"
+  # orcid            : "https://orcid.org/0009-0001-5730-9127"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
