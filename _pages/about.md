@@ -18,7 +18,7 @@ Hi there!👋 Welcome to my personal page!
 ## Education
 - Ph.D., **The University of Hong Kong**, 2023-now
 	- Supervisor: Prof. Kelvin Kwok
-  - Fields: Competition Law, Law and AI, Law and Economics
+  - Fields: Competition Law, Law and Data Science, Law and Economics
 - LL.M., **The University of Chicago**, 2021-2022
 - LL.B., **Peking University**, 2017-2021
 
