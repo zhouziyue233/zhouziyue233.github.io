@@ -33,3 +33,8 @@ Hi there!👋 Welcome to my personal page!
 
 - Hong Kong PhD Fellowship Scheme (HKPFS), 2023
 - HKU Presidential PhD Scholarship (HKU-PS), 2023
+
+## Hobbies
+
+- ⚽️ Football 🏊 Swimming 🏀 Basketball 🎵 R&B
+- 📈 Quantitative Trading
