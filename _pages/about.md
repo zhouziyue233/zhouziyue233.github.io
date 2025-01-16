@@ -36,5 +36,5 @@ Hi there!👋 Welcome to my personal page!
 
 ## Hobbies
 
-- ⚽️ Football 🏊 Swimming 🏀 Basketball 🎵 R&B
+- 🏸 Badminton 🏀 Basketball 🏊 Swimming 🎵 R&B 
 - 📈 Quantitative Trading
