@@ -18,7 +18,7 @@ permalink: /
 
 ## About
 
-I am a Ph.D. student at the Faculty of Law, The University of Hong Kong, working under the supervision of [Prof. Kelvin Kwok](https://www.law.hku.hk/academic_staff/kelvin-kwok/). Before HKU, I received my LL.M. from The University of Chicago (2022) and LL.B. from Peking University (2021).
+I am a Ph.D. student at the Faculty of Law, The University of Hong Kong. Before HKU, I received my LL.M. from The University of Chicago (2022) and LL.B. from Peking University (2021).
 
 My research sits at the intersection of competition law, law and economics, and computational methods. I am particularly interested in how advances in machine learning and LLMs reshape the methodology of empirical legal studies.
 
