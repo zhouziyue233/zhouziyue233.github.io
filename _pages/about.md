@@ -13,12 +13,6 @@ permalink: /
       Ph.D. Candidate in Law · The University of Hong Kong<br>
       Competition Law · Computational Legal Studies · Law &amp; Economics
     </p>
-    <ul class="profile-hero__links">
-      <li><a href="{{ '/CV.pdf' | relative_url }}"><i class="fas fa-file-alt"></i> CV</a></li>
-      <li><a href="https://www.linkedin.com/in/ziyuezhou666"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-      <li><a href="https://github.com/zhouziyue233"><i class="fab fa-github"></i> GitHub</a></li>
-      <li><a href="https://scholar.google.com/citations?user=sW-MnRAAAAAJ&amp;hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
-    </ul>
   </div>
 </section>
 
