@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <main id="main">
+      <section class="page__content">
+        {{ content }}
+      </section>
+    </main>
+    <footer class="page__footer">
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>

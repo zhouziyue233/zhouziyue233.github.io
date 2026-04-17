@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+/* Typography */
+$serif       : "Charter", "Iowan Old Style", "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+$serif-display : "Source Serif 4", "Source Serif Pro", "Iowan Old Style", Charter, Georgia, serif;
+$sans-serif  : "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$monospace   : "JetBrains Mono", "SF Mono", Menlo, Monaco, Consolas, "Lucida Console", monospace;
+
+$type-size-3 : 1.563em;
+$type-size-4 : 1.25em;
+$type-size-5 : 1em;
+$type-size-6 : 0.75em;
+$type-size-7 : 0.6875em;
+
+/* Colors - academic blue/white/black palette */
+$navy        : #0b2545;
+$royal       : #13315c;
+$azure       : #1d4e89;
+$ink         : #0f172a;
+
+$gray        : #4b5563;
+$dark-gray   : #1f2937;
+$light-gray  : #9ca3af;
+$lighter-gray: #e5e7eb;
+
+$text-color       : $ink;
+$background-color : #ffffff;
+$border-color     : #e3e8ef;
+$code-background-color : #f3f5f9;
+
+$primary-color    : $navy;
+$link-color       : $azure;
+$link-color-hover : $royal;
+
+/* Breakpoints */
+$small       : 600px;
+$medium      : 768px;
+$large       : 925px;
+$x-large     : 1280px;
+
+/* Other */
+$border-radius      : 2px;
+$global-transition  : all 0.2s ease-in-out;
