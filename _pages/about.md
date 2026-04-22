@@ -46,4 +46,4 @@ My research sits at the intersection of competition law, law and economics, and 
 
 ## Contact
 
-The best way to reach me is by email at [ziyue@connect.hku.hk](mailto:ziyue@connect.hku.hk). I welcome conversations on antitrust, computational law, and interdisciplinary collaborations.
+The best way to reach me is by email at [ziyue@connect.hku.hk](mailto:ziyue@connect.hku.hk). I welcome conversations on computational legal study, law and economics, antitrust, and any other interdisciplinary collaborations.
