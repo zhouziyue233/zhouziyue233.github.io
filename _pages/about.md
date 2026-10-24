@@ -11,7 +11,7 @@ permalink: /
     <h1 class="profile-hero__name">Ziyue Zhou</h1>
     <p class="profile-hero__tagline">
       Ph.D. Candidate in Law · The University of Hong Kong<br>
-      Competition Law · Computational Legal Studies · Law &amp; Economics
+      Computational Legal Studies · Law &amp; Economics · Fintech
     </p>
   </div>
 </section>
