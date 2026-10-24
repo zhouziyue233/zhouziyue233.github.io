@@ -18,9 +18,9 @@ permalink: /
 
 ## About
 
-I am a Ph.D. student at the Faculty of Law, The University of Hong Kong. Before HKU, I received my LL.M. from The University of Chicago (2022) and LL.B. from Peking University (2021).
+I am a Ph.D. candidate at the Faculty of Law, The University of Hong Kong. Before HKU, I received my LL.M. from The University of Chicago (2022) and LL.B. from Peking University (2021).
 
-My research sits at the intersection of competition law, law and economics, and computational methods. I am particularly interested in how advances in machine learning and LLMs reshape the methodology of empirical legal studies.
+My research interests are mainly in computational legal studies, law & economics, and Fintech. I'd like to explore various interdisciplinary research, and I’ve been lucky to have the freedom to try out different ideas along the way.
 
 ## Education
 
@@ -46,4 +46,4 @@ My research sits at the intersection of competition law, law and economics, and 
 
 ## Contact
 
-The best way to reach me is by email at [ziyue@connect.hku.hk](mailto:ziyue@connect.hku.hk). I welcome conversations on computational legal study, law and economics, antitrust, and any other interdisciplinary collaborations.
+The best way to reach me is by email at [ziyue@connect.hku.hk](mailto:ziyue@connect.hku.hk). I welcome conversations on any subjects and topics.
